@@ -33,7 +33,7 @@
                             </div>
                         </c:forEach>
                         
-                        
+                        <div>nao chung ta cùng sửa<div/>
                     </div>
                     <div class="intro">
                         <div class="intro_image">
