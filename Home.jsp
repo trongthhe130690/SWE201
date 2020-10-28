@@ -36,6 +36,9 @@
                         </c:forEach>
                         
                         <div>nao chung ta cùng sửa<div/>
+                            sửa nào các bạn ơi
+                           ahihaihaihia
+                            hohooh
                     </div>
                     <div class="intro">
                         <div class="intro_image">
